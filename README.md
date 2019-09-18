@@ -45,12 +45,12 @@ Import - Market price ($/MWh)：从外电网买电价格
 
 ## RenewableProduction.csv
 
-新能源出力预测。48行代表48个时段，4列代表3个光伏和1个储能
+新能源出力预测。48行代表48个时段，3列代表3个光伏，单位为kW
 
 ## LoadMinPower.csv
 
-最小负荷出力
+最小负荷出力，单位为MW
 
 ## LoadMaxPower.csv
 
-最大负荷出力
+最大负荷出力，单位为MW
